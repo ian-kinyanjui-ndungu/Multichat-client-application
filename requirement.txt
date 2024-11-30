@@ -1,0 +1,23 @@
+# Core Flask and Web Dependencies
+flask==2.1.0
+flask-socketio==5.1.1
+python-dotenv==0.19.2
+
+# Security and Encryption
+pycryptodome==3.14.1
+cryptography==3.4.8
+
+# Database
+sqlalchemy==1.4.27
+sqlite3
+
+# Network and Communication
+eventlet==0.32.0
+requests==2.26.0
+
+# Testing
+pytest==6.2.5
+unittest2==1.1.0
+
+# Logging and Utilities
+python-json-logger==2.0.2
